@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ozkahraman/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/ozkahraman/ros2_ws/install/mekatronom/lib/python3.8/site-packages",
+        "/home/ozkahraman/ros2_ws/install/asuman/lib/python3.8/site-packages",
+        "/home/ozkahraman/ros2_ws/install/interfaces/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ozkahraman/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/ozkahraman/ros2_ws/install/mekatronom/lib/python3.8/site-packages",
+        "/home/ozkahraman/ros2_ws/install/asuman/lib/python3.8/site-packages",
+        "/home/ozkahraman/ros2_ws/install/interfaces/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

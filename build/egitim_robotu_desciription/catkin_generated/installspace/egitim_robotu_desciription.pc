@@ -1,8 +1,0 @@
-prefix=/home/ozkahraman/catkin_ws/install
-
-Name: egitim_robotu_desciription
-Description: Description of egitim_robotu_desciription
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
