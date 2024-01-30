@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#Robotun on kismi 0 derceden baslar 90 derce arta arta gider
+#Robotun on kismi 0 derceden baslar sola dogru 90 derce arta arta gider
 
 import rospy
 from sensor_msgs.msg import LaserScan
